@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288" height="288" viewBox="0 0 288 288">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <g id="ghost_primary-color" data-name="ghost primary-color" transform="translate(23.702 23.872)">
+    <circle id="Elipse_3" data-name="Elipse 3" cx="144" cy="144" r="144" transform="translate(-23.702 -23.872)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_4" data-name="Elipse 4" cx="141.126" cy="141.126" r="141.126" transform="translate(-20.381 -21.752)" fill="#f5f5f5"/>
+    <path id="Caminho_413" data-name="Caminho 413" d="M106.234,0A63.382,63.382,0,0,0,59.32,20.637C46.943,33.992,40.127,52.216,40.127,71.952V158.3l26.008-12.422L86.53,158.565l19.989-12.439L106.469,0ZM80.409,89.571a16.48,16.48,0,0,1-12.291-19.8l32.093,7.512A16.48,16.48,0,0,1,80.409,89.571Z" transform="translate(14 41)" fill="#937fce"/>
+    <path id="Caminho_414" data-name="Caminho 414" d="M313.169,71.952c0-19.736-6.816-37.96-19.193-51.315A63.383,63.383,0,0,0,247.062,0h-.235l-.049,146.126,19.989,12.439,20.395-12.692L313.169,158.3ZM272.891,89.571a16.48,16.48,0,0,1-19.8-12.291l32.093-7.512A16.48,16.48,0,0,1,272.891,89.571Z" transform="translate(-127.536 41)" fill="#6951ae"/>
+    <path id="Caminho_415" data-name="Caminho 415" d="M138.62,236.965a16.48,16.48,0,0,0,19.8-12.291l-32.093-7.512A16.481,16.481,0,0,0,138.62,236.965Z" transform="translate(-44.211 -106.394)" fill="#fff"/>
+    <path id="Caminho_416" data-name="Caminho 416" d="M266.42,224.675a16.48,16.48,0,0,0,32.093-7.512Z" transform="translate(-139.592 -106.395)" fill="#fff"/>
+  </g>
+</svg>
